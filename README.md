@@ -1,1 +1,1 @@
-# google-hompage
+Here's a re-do of my google homepage project.  Having some issues understanding command line.  Let's consider this my initial version.
